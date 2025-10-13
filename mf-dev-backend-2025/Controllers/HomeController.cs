@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using mf_dev_backend_2025.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 
 namespace mf_dev_backend_2025.Controllers
 {
